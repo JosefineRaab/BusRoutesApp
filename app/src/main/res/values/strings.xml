@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Map App 1</string>
+    <string name="title_activity_maps">Bus routes London</string>
+</resources>
